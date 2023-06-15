@@ -1,0 +1,24 @@
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color:#eb5c5c;
+  color: ivory;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+  background-color:#FF338A;
+  
+}
+
+table {
+  margin: auto auto;
+} 
+body{
+  background: url(mario.jpeg);
+}
